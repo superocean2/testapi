@@ -1,0 +1,17 @@
+﻿
+
+<h2>Home</h2>
+<div id="content"></div>
+<script type="text/javascript">
+    $.ajax(
+        {
+            url: "/Home/GetData",
+            type: "get",
+            dataType: "json",
+            success: function (result) {
+                $("#content").html(result);
+            }
+        });
+
+</script>
+

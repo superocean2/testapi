@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<style>
+    .spacevertical{margin-bottom:20px}
+</style>
+<form action="/Home/Register" method="post">
+    <div class="spacevertical"> Username: <input type="text" style="width:400px" name="username" /></div>
+    <div class="spacevertical">Password: <input type="password" style="width:400px" name="password" /></div>
+    <input type="submit" value="Register" class="spacevertical" />
+</form>
+
