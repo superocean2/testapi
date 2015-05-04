@@ -23,3 +23,12 @@ D:\AndroidTest\TestAndroid\APIForIncomeExpense\API\API\bin\System.Web.Helpers.xm
 D:\AndroidTest\TestAndroid\APIForIncomeExpense\API\API\bin\System.Web.Mvc.xml
 D:\AndroidTest\TestAndroid\APIForIncomeExpense\API\API\obj\Debug\API.dll
 D:\AndroidTest\TestAndroid\APIForIncomeExpense\API\API\obj\Debug\API.pdb
+D:\AndroidTest\apiweb\testapi\obj\Debug\API.dll
+D:\AndroidTest\apiweb\testapi\obj\Debug\API.pdb
+D:\AndroidTest\apiweb\testapi\bin\API.dll.config
+D:\AndroidTest\apiweb\testapi\bin\API.dll
+D:\AndroidTest\apiweb\testapi\bin\API.pdb
+D:\AndroidTest\apiweb\testapi\bin\EntityFramework.xml
+D:\AndroidTest\apiweb\testapi\bin\EntityFramework.SqlServer.xml
+D:\AndroidTest\apiweb\testapi\bin\System.Data.SQLite.xml
+D:\AndroidTest\apiweb\testapi\obj\Debug\API.csprojResolveAssemblyReference.cache
